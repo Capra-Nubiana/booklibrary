@@ -79,6 +79,9 @@ Install JDK If Not Installed
 Download JDK 17 or 21 from:
 https://adoptium.net/en-GB/temurin/releases/
 
+You can check with:
+java -version
+
 Install it, then come back and select it in IntelliJ
 
 ######
